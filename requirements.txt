@@ -1,0 +1,4 @@
+Flask==2.0.2
+mysql-connector-python==8.0.32
+python-decouple==3.8
+pyngrok=6.0.0
